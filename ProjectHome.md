@@ -1,0 +1,1 @@
+I need a chat application for my websites in Rails, so here is my contribution based over xmpp4r. **Alpha stage**.
